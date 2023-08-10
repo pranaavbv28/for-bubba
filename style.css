@@ -1,0 +1,28 @@
+div{
+    /* width: 700px;
+    aspect-ratio: 1/1; */
+    margin: 50px auto;
+    text-align: center;
+    vertical-align: middle;
+    background-color: black;
+    padding: 80px;
+}
+h1{
+    display: none;
+    color: pink;
+}
+button{
+    padding: 20px 40px;
+    background-color: rgb(32, 122, 152);
+    border: none;
+    border-radius: 40px;
+    color: white;
+    font-size: 40px;
+    margin: auto;
+}
+#btn2{
+    font-size: 20px;
+    background-color: white;
+    color: pink;
+    display: none;
+}
